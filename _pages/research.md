@@ -16,7 +16,7 @@ I believe in open science, interdisciplinary collaboration, and ensuring that re
 ## Completed Research
 
 ### An asset-level analysis of financial tail risks under extreme weather events (2025)
-**Environmental Research: Climate** | [Paper Link](https://iopscience.iop.org/article/10.1088/2752-5295/addf6f) | [Code](https://github.com/rubenkerkhofs/PRISK)
+*Environmental Research: Climate* | [Paper Link](https://iopscience.iop.org/article/10.1088/2752-5295/addf6f) | [Code](https://github.com/rubenkerkhofs/PRISK)
 
 In this paper we introduce an open-source, modular, methodology for translating extreme climate risks into financial risks at the asset, firm, and portfolio level.
 
@@ -29,15 +29,14 @@ In this paper we introduce an open-source, modular, methodology for translating 
 
 ---
 
-### Paper Title 2 (Year)
-**Journal Name** | [Paper Link](#) | [Preprint](#)
+### Data, guidelines and ethics for managing flood risk when people are already forcibly displaced (2024)
+*Environmental Research Letters* | [Paper Link](https://iopscience.iop.org/article/10.1088/1748-9326/ad9e06/meta)
 
-Another two-to-three sentence description of this research. Focus on the main contribution, methodology, and implications. Keep it clear and engaging.
+In this paper we highlight some of the challenges with managing flood risk for people who are forcibly displaced. We then provide some recommendations for how flood risk should be effectively managed in these contexts.
 
-**Additional Resources:**
-- [Interactive Map](#) - Geographic visualization of results
-- [Policy Brief](#) - Summary for policymakers
-- [Blog Post](#) - Plain language explanation
+**Key Figure:**
+![Global map of forcibly displaced people and flood events](/assets/images/global_refugee_map.jpg)
+*The location of forcibly displaced people and flood events*
 
 ---
 
