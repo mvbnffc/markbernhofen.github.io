@@ -21,7 +21,7 @@ I believe in open science, interdisciplinary collaboration, and ensuring that re
 In this paper we introduce an open-source, modular, methodology for translating extreme climate risks into financial risks at the asset, firm, and portfolio level.
 
 **Key Figure:**
-![Correlation models explored](/assets/images/correlation_figure.png)
+![Correlation models explored](/assets/images/correlation_figure.jpg)
 *The different correlation models explored*
 
 **Additional Resources:**
