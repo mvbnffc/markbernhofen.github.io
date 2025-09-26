@@ -52,6 +52,16 @@ In this paper we explore how global flood risk data can be used to understand fl
 
 ---
 
+### The role of global data sets for riverine flood risk management at national scales (2022)
+*Water Resources Research* | [Paper Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031555)
+
+In this paper we explore how global flood risk datasets could inform national flood risk management. An intercomparison of hazard, exposure, and vulnerability datasets in five countries reveals significant uncertainty in the resultant national flood risk estimates. We advocate for a multi-model approach. This quantitative analysis was complimented by interviews with flood risk management stakeholders across the five countries which revealed the importance of the right institutional frameworks in place to ensure the effective use of global data nationally
+
+![Intercomparison of flood model and exposure data national risk estimates](/assets/images/national_flood_exposure.jpg)
+*Intercomparison of flood model and exposure data national risk estimates*
+
+---
+
 ## Current Research
 
 ### Project 1: [Descriptive Project Title]
