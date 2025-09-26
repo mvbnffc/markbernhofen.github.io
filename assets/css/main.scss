@@ -1,10 +1,12 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Make author avatar larger
+// Make author avatar larger and rectangular
 .author__avatar {
   img {
-    max-width: 200px !important;  // Default is around 110px
-    width: 200px !important;
+    max-width: 150px !important;  // Size
+    width: 150px !important;
+    border-radius: 8px !important;  // Slightly rounded corners (change to 0 for sharp corners)
+    // border-radius: 50% is what makes it circular - we're overriding this
   }
 }
