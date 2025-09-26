@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Mark Bernhofen"
-  avatar : "/assets/images/mark_photo.jepg"
+  avatar : "/assets/images/mark_photo.jpeg"
   bio    : "Researcher in Climate Risk & Adaptation Analytics at the University of Oxford and the London School of Economics."
   location: "London, UK"
   links:
