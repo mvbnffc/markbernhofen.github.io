@@ -20,7 +20,6 @@ I believe in open science, interdisciplinary collaboration, and ensuring that re
 
 In this paper we introduce an open-source, modular, methodology for translating extreme climate risks into financial risks at the asset, firm, and portfolio level.
 
-**Key Figure:**
 ![Correlation models explored](/assets/images/correlation_figure.jpg)
 *The different correlation models explored*
 
@@ -34,20 +33,22 @@ In this paper we introduce an open-source, modular, methodology for translating 
 
 In this paper we highlight some of the challenges with managing flood risk for people who are forcibly displaced. We then provide some recommendations for how flood risk should be effectively managed in these contexts.
 
-**Key Figure:**
 ![Global map of forcibly displaced people and flood events](/assets/images/global_refugee_map.jpg)
-*The location of forcibly displaced people and flood events*
+*Global map of forcibly displaced people and flood events*
 
 ---
 
-### Paper Title 3 (Year)
-**Conference Proceedings / Working Paper** | [Paper Link](#)
+### Unknown risk: assessing refugee camp flood risk in Ethiopia (2023)
+*Environmental Research Letters* | [Paper Link](https://iopscience.iop.org/article/10.1088/1748-9326/acd8d0)
 
-Description of this work, including what gap it fills in the literature and what practical applications it has. Mention any novel methodological contributions.
+In this paper we explore how global flood risk data can be used to understand flood risk to refugee camps in Ethiopia. We find that some global datasets are unsuitable for this task. However, when combined with local data such assessments can be informative. Applying this approach in Ethiopia, we find over 180,000 refugees are exposed to flooding, affecting 24 (96%) of camps in the country.
+
+![Flood risk breakdown for Ethiopian refugee caps](/assets/images/refugee_flood_risk.jpg)
+*Flood risk breakdown for Ethiopian refugee camps*
 
 **Additional Resources:**
-- [Presentation Slides](#) - Conference presentation
-- [Video Abstract](#) - Brief video explanation
+- [Data](https://doi.org/10.5281/zenodo.7962039) - Replication Data
+- [GAR 2025](https://environmentalmigration.iom.int/sites/g/files/tmzbdl1411/files/documents/2025-05/undrr-gar2025-web_0.pdf#page=37) - Coverage in UNDRR's 2025 Global Assessment Report
 
 ---
 
