@@ -15,15 +15,14 @@ I believe in open science, interdisciplinary collaboration, and ensuring that re
 
 ## Completed Research
 
-### Paper Title 1 (Year)
-**Journal Name** | [Paper Link](#) | [Data](#) | [Code](#)
+### An asset-level analysis of financial tail risks under extreme weather events (2025)
+**Environmental Research: Climate** | [Paper Link](https://iopscience.iop.org/article/10.1088/2752-5295/addf6f) | [Code](https://github.com/rubenkerkhofs/PRISK)
 
-Brief two-to-three sentence description of what this paper is about, what methods you used, and what the key findings were. This should be accessible to both specialists and general academic audiences.
+In this paper we introduce an open-source, modular, methodology for translating extreme climate risks into financial risks at the asset, firm, and portfolio level.
 
 **Additional Resources:**
-- [Figure/Visualization](#) - Key result visualization
-- [Dataset](#) - Open dataset used/created
-- [News Coverage](#) - Media coverage or policy impact
+- [Figure](assets/images/correlation_figure.png) - The different correlation models explored
+- [News Coverage](#) - TODO: add CFRF
 
 ---
 
