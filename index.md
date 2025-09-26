@@ -1,35 +1,26 @@
 ---
-layout: splash
-title: "Climate & Environmental Risk Research"
-header:
-  overlay_image: /assets/images/climate-header.jpg
-  overlay_filter: 0.3
-excerpt: "PostDoc researcher focusing on [your specific area] at University of Oxford and LSE"
-feature_row:
-  - image_path: /assets/images/research-thumb.jpg
-    title: "Research"
-    excerpt: "Climate risk modeling and environmental impact assessment"
-    url: "/research/"
-    btn_label: "Learn More"
-  - image_path: /assets/images/publications-thumb.jpg
-    title: "Publications"
-    excerpt: "Peer-reviewed articles and conference proceedings"
-    url: "/publications/"
-    btn_label: "View Papers"
-  - image_path: /assets/images/teaching-thumb.jpg
-    title: "Teaching"
-    excerpt: "Courses and educational materials"
-    url: "/teaching/"
-    btn_label: "See Courses"
+layout: single
+author_profile: true
+title: "Dr. Mark Bernhofen"
 ---
 
-{% include feature_row %}
+I am a PostDoc researcher at the **University of Oxford** and the **London School of Economics**, specializing in climate risk and adaptation analytics. My work focuses on developing quantitative approaches to assess climate risks and design effective adaptation strategies, bridging environmental science, economics, and policy.
 
-## About Me
+I develop innovative methodologies for climate risk assessment, focusing on both physical climate risks and the economic implications of climate change. My research aims to provide decision-makers with the analytical tools they need to build climate resilience in an uncertain world.
 
-I am a PostDoc researcher at the University of Oxford and London School of Economics, specializing in [your specific research focus]. My work examines [brief description of your research approach/questions].
+## Find Out More
 
-## Recent News
-- **[Date]**: New paper published in [Journal]
-- **[Date]**: Presenting at [Conference]
-- **[Date]**: Starting collaboration with [Institution]
+- **[Research](/research/)** - Current projects and research interests
+- **[Teaching](/teaching/)** - Courses and educational activities  
+- **[CV](/cv/)** - Complete academic curriculum vitae
+
+## Academic Profiles
+
+- **[Google Scholar](https://scholar.google.com/citations?user=6WUwIfQAAAAJ&hl=en)** - Publications and citations
+- **[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4919-0111)** - Academic identifier and works
+- **[LinkedIn](https://www.linkedin.com/in/markbernhofen/)** - Professional network and updates
+
+## Contact
+
+**Oxford:** [mark.bernhofen@eci.ox.ac.uk](mailto:mark.bernhofen@eci.ox.ac.uk)  
+**LSE:** [m.bernhofen@lse.ac.uk](mailto:m.bernhofen@lse.ac.uk)
