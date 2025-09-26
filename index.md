@@ -14,12 +14,6 @@ I develop innovative methodologies for climate risk assessment, focusing on both
 - **[Teaching](/teaching/)** - Courses and educational activities  
 - **[CV](/cv/)** - Complete academic curriculum vitae
 
-## Academic Profiles
-
-- **[Google Scholar](https://scholar.google.com/citations?user=6WUwIfQAAAAJ&hl=en)** - Publications and citations
-- **[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4919-0111)** - Academic identifier and works
-- **[LinkedIn](https://www.linkedin.com/in/markbernhofen/)** - Professional network and updates
-
 ## Contact
 
 **Oxford:** [mark.bernhofen@eci.ox.ac.uk](mailto:mark.bernhofen@eci.ox.ac.uk)  
