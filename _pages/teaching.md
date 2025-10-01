@@ -22,10 +22,10 @@ In June 2025, I was invited to run a day's course on climate change and climate 
 Many of these countries are on the frontlines of climate change, and my day-long course was a crash course in climate change fundamentals, risk assessment approaches, and climate finance. We finished the day with a simulation where the participants were assigned a fictional small country with unique financial constraints and climate risks and asked to design a national climate finance strategy. I've inlcuded the materials from that simulation in the links below, in case you are interested in running a similar session youself. Please send me an email if you have any questions!
 
 **Course Materials:**
-- [Country Profiles](#) - /assets/teaching-materials/country_profiles.pdf
-- [Climate Financing Cards](#) - /assets/teaching-materials/climate_financing_cards.pdf
+- [Country Profiles (pdf)](/assets/teaching-materials/country_profiles.pdf)
+- [Climate Financing Cards (pdf)](/assets/teaching-materials/climate_financing_cards.pdf)
 
-![SMFMC](/assets/images/teaching_smfmc.jpg)
+![SMFMC](/assets/images/teaching_smfmc.jpeg)
 *Delivering a lecture on climate risk assessment approaches to the cohort of government officials.*
 
 ---
@@ -35,7 +35,7 @@ Many of these countries are on the frontlines of climate change, and my day-long
 Following, our paper on assissing flood risk to refugee camps in Ethiopia, NASA reached out to me and my co-authors and asked if we'd be willing to put together a training course for their Applied Remote Sensing Training Program (ARSET). The program was attended live by over 800 participants and is still available online. I have embedded the training video below and added links to the training material. 
 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=JXYUUkGQu9I" 
+src="https://www.youtube.com/embed/JXYUUkGQu9I" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
