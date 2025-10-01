@@ -7,112 +7,58 @@ author_profile: true
 
 ## Teaching Philosophy
 
-[Write a brief paragraph about your approach to teaching - what drives you as an educator, your goals for students, your methodology]
+I believe students learn best by doing. In my teaching I try to marry traditional lecturing with hands-on simulations. Particularly when it comes to teaching climate risk, I find it valuable to let students experience first-hand the trade-offs and uncertainties that come with using climate information for real-world decision-making. 
+
+Below I've included a couple recent teaching highlights (with nice photos or videos). For a full list of my teaching experience, please take a look at my CV.
 
 ---
 
-## Current Courses
+## A Few Teaching Highlights
 
-### Course Name 1 (Academic Year)
-**Institution:** University of Oxford / London School of Economics  
-**Level:** Undergraduate / Master's / PhD  
-**Role:** Lecturer / Course Coordinator / Teaching Assistant
+### Simulating climate financing decisions with *actual* government decision-makers
 
-Brief description of the course content, learning objectives, and your specific contributions. What makes this course unique or particularly valuable for students?
+In June 2025, I was invited to run a day's course on climate change and climate finance for the Small Countries Financial Management Program on the Isle of Man. This program brings together around 20 government officials from different small countries to build capacity around financial management. 
+
+Many of these countries are on the frontlines of climate change, and my day-long course was a crash course in climate change fundamentals, risk assessment approaches, and climate finance. We finished the day with a simulation where the participants were assigned a fictional small country with unique financial constraints and climate risks and asked to design a national climate finance strategy. I've inlcuded the materials from that simulation in the links below, in case you are interested in running a similar session youself. Please send me an email if you have any questions!
 
 **Course Materials:**
-- [Syllabus (PDF)](#) - Link to downloadable syllabus
-- [Lecture Slides](#) - Link to slides folder or individual presentations
-- [Dataset 1](#) - Description of dataset
-- [Dataset 2](#) - Another dataset
-- [Problem Sets](#) - Practice exercises
+- [Country Profiles](#) - /assets/teaching-materials/country_profiles.pdf
+- [Climate Financing Cards](#) - /assets/teaching-materials/climate_financing_cards.pdf
 
-**Course Highlights:**
-- Key topics covered
-- Special guest lectures or field trips
-- Student projects or case studies
-
-![Course photo description](/assets/images/teaching/course1-photo.jpg)
-*Caption describing what's happening in this photo - e.g., "Students presenting their climate adaptation projects, 2024"*
+![SMFMC](/assets/images/teaching_smfmc.jpg)
+*Delivering a lecture on climate risk assessment approaches to the cohort of government officials.*
 
 ---
 
-### Course Name 2 (Academic Year)
-**Institution:** [Institution]  
-**Level:** [Level]
+### A NASA training course for assessing flood risk to refugee camps. 
 
-Another course description with the same structure as above.
+Following, our paper on assissing flood risk to refugee camps in Ethiopia, NASA reached out to me and my co-authors and asked if we'd be willing to put together a training course for their Applied Remote Sensing Training Program (ARSET). The program was attended live by over 800 participants and is still available online. I have embedded the training video below and added links to the training material. 
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/watch?v=JXYUUkGQu9I" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+*Recording of our NASA ARSET refugee flood risk training.*
 
 **Course Materials:**
-- [PowerPoint 1 - Introduction](#)
-- [PowerPoint 2 - Methods](#)
-- [R/Python Tutorial](#)
-- [Example Analysis Dataset](#)
+- [Training Data (Zenodo link)](https://zenodo.org/records/11203929)
 
 ---
 
-## Past Teaching
+## Teaching Interests
 
-### Previous Course (Years Taught)
-**Institution:** [Institution]
+These were just a few teaching highlights. I have taught (or would be interested in) teaching on any of the topics below:
+- Climate change 
+- Climate finance
+- Climate risk assessments
+- Hydrology 
+- Water resource management
+- Decision making under uncertainty
+- GIS and quantitative methods (Python) in environmental science
 
-Brief description of courses you've taught in the past. This section can be more concise than current courses.
 
----
-
-## Guest Lectures & Workshops
-
-### Workshop Title (Year)
-**Event:** Conference name or workshop series  
-**Topic:** Specific focus area
-
-Short description of what you covered, who the audience was, and any materials available.
-
-**Materials:** [Presentation slides](#) | [Handout](#)
-
----
-
-### Guest Lecture Title (Year)
-**Course:** Course name at another institution  
-**Topic:** What you presented on
-
-Brief description and links to materials if available.
-
----
-
-## Supervision & Mentoring
-
-### PhD Students
-- **Student Name** (Year-Present): Thesis topic
-- **Student Name** (Year-Year): Thesis topic - Current position
-
-### Master's Students
-- Supervised [X] Master's theses on topics including climate risk, adaptation economics, etc.
-- Recent thesis topics: [list a few interesting ones]
-
-### Undergraduate Projects
-- Supervised [X] undergraduate research projects
-- Topics range from [general areas]
-
----
-
-## Student Resources
-
-Useful resources I've compiled for students:
-
-- [Getting Started with Climate Data Analysis](#) - Tutorial
-- [Recommended Reading List](#) - Curated papers and books
-- [Research Tools & Software](#) - Software recommendations
-- [Career Resources in Climate Science](#) - Advice for students
-
----
-
-## Teaching Recognition
-
-*If you have any teaching awards, positive student feedback quotes, or other recognition:*
-
-- **Teaching Excellence Award**, University Name (Year)
-- Student evaluation highlights: "[Quote from anonymous evaluation]"
 
 ---
 
