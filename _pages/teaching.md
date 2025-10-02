@@ -32,7 +32,7 @@ Many of these countries are on the frontlines of climate change, and my day-long
 
 ### A NASA training course for assessing flood risk to refugee camps. 
 
-Following, our paper on assissing flood risk to refugee camps in Ethiopia, NASA reached out to me and my co-authors and asked if we'd be willing to put together a training course for their Applied Remote Sensing Training Program (ARSET). The program was attended live by over 800 participants and is still available online. I have embedded the training video below and added links to the training material. 
+Following, our paper on assessing flood risk to refugee camps in Ethiopia, NASA reached out to me and my co-authors and asked if we'd be willing to put together a training course for their Applied Remote Sensing Training Program (ARSET). The program was attended live by over 800 participants and is still available online. I have embedded the training video below and added links to the training material. 
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/JXYUUkGQu9I" 
