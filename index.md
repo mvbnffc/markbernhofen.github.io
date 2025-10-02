@@ -6,9 +6,7 @@ title: "Dr. Mark Bernhofen"
 
 Hello, and welcome to my website! My name is Mark Bernhofen, and I am a postdoctoral researcher at the **University of Oxford** and the **LSE**, specializing in climate risk and adaptation analytics for decision-making.
 
-At Oxford, I work as part of the **Oxford Program for Sustainable Infrastructure Systems** where I lead a project focussed on *just adaptation* that quantifies the unequal impacts of climate risks to infrastructure in developing countries and develops data, metrics, and tools to support decision makers to make equitable adaptation decisions.
-
-I also have a joint (part-time) position at the LSE, working at the **Grantham Research Institute on Climate Change and the Environment**. My research at LSE explores how climate risk and adaptation can be integrated into credit rating methodologies, from the sovereign to the project level. 
+At Oxford, I work as part of the **Oxford Program for Sustainable Infrastructure Systems** where I do research on climate risk to critical infrastructure and impact inequality in developing countries. I also have a joint (part-time) position at the LSE, working at the **Grantham Research Institute on Climate Change and the Environment**. My research here is on climate financial risk and the ethics and responsible use of climate data for decision-making. 
 
 My research is fairly multi-disciplinary, I have a background in engineering, my PhD (at the **University of Leeds**) was in global flood risk modelling, and I now do work at the intersection of climate risk and finance. I've listed some of my research interests below, please do get in touch if you are interested on collaborating on anything!
 
