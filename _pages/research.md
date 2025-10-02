@@ -67,7 +67,7 @@ In this paper we explore how global flood risk datasets could inform national fl
 
 In this paper we developed a terrain-based global river flood hazard model to estimate the impact of river size representation on global and national flood exposure estimates. We found that the size of river that is modelled in global flood models has a significant imapct on flood exposure estimates, differing by up to a factor of 2 globally. 
 
-![Flood exposure from different sized rivers in 50 most exposed countries](/assets/images/river_flood_size.jpg)
+![Flood exposure from different sized rivers in 50 most exposed countries](/assets/images/river_flood_size.png)
 *Flood exposure from different sized rivers in 50 most exposed countries*
 
 **Additional Resources:**
