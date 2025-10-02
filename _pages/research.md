@@ -57,6 +57,7 @@ This is an ongoing research project in collaboration with multiple universities 
 **Collaboration:** with University of Leeds and UCL
 
 This is an early-stage research project that explores the ethics and responsibile use of climate data for decision making. We have already held workshops on the topic with the University of Leeds and UCL and have secured small-scale funding from NERC to run a pilot project exploring climate data uncertainty and decision-making in financial institutions.
+
 ---
 
 ## Completed Research
