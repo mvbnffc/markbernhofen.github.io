@@ -49,7 +49,7 @@ allowfullscreen></iframe>
 
 ## Teaching Interests
 
-These were just a few teaching highlights. I have taught (or would be interested in) teaching on any of the topics below:
+I have taught (or would be interested in) teaching on any of the topics below:
 - Climate change 
 - Climate finance
 - Climate risk assessments
